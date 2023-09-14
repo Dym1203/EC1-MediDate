@@ -1,0 +1,3 @@
+com.dylan.medidate.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

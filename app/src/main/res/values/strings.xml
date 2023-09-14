@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MediDate</string>
+    <string name="descripcion">¡Tenemos un grupo de profesionales\nque cuidarán muy bien de ti!</string>
+    <string name="version">Version 1.1.5</string>
+    <string name="derechos">MediDate 2023 © Derechos Reservados</string>
+    <string name="nombre">Nombre</string>
+    <string name="fecha">Fecha</string>
+    <string name="boton">Aceptar</string>
+    <string name="boton1">Salir</string>
+</resources>
